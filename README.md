@@ -1,9 +1,6 @@
 # DataEngineeringCaseStudy_20240209
-Case study for data engineering roles. Azure, SQL, data modelling, MDM
-In response to a request from senior management in early December 2023, this project was initiated to develop a reporting system. The objective was to accurately forecast inventory needs for the 2023 Christmas season (spanning Friday, December 15th to Sunday, January 7th, 2024) and to equip store managers with the tools necessary for daily inventory analysis, enabling the identification of over- or under-stocked products.
-
-
-Imagine it is early December 2023 and you have received a request from your manager, that the store managers need a report / dataset which will enable them to answer the following questions: a) Assuming similar sales patterns to last year, how many of each product items do I need to keep on stock for the 2023 Christmas holiday period (Fri Dec 15th 2023 to Sun Jan 7th 2024)? b) As the Christmas holiday period progresses, on a daily basis, how will I be able to identify which products I have over- or under- stocked for?
+Case study for data engineering roles. Azure, SQL, data modelling, MDM.
+This repository documents case study aimed at data engineering roles, underscoring the utilization of Azure, SQL, data modeling, and Master Data Management (MDM) to solve a real-world business challenge. The case study is rooted in a practical scenario faced in December 2023, demanding the creation of reporting system for inventory management during the holiday season. Presented contributions are the result of the author's direct engagement with the case study, showcasing a tailored approach to solving the unique data engineering challenges encountered
 
 Datasets: 3 datasets:
 1.	Large Transaction Data (Millions of records), refreshed Hourly. Source: On-premise SFTP folder
